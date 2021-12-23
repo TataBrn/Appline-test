@@ -1,2 +1,3 @@
 print ('goodbye')
 зкште ('have a good day')
+будем тестировать конфликты
