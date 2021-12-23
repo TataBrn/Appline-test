@@ -1,2 +1,2 @@
-print ('goodbye')
-зкште ('have a good day')
+print ('goodbye');
+зкште ('have a good day');
